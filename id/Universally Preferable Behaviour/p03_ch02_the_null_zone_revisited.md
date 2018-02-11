@@ -1,6 +1,6 @@
 ## Zona Null Revisited
 
-Pada awal buku ini, saya mengajukan cara untuk melihat bagaimana kita memproses kebenaran, analogisasikan dengan fisika. Dari "kebenaran kecil" untuk menangkap bola bisbol, kita sampai pada "kebenaran besar" fisika - dan kebenaran besar tidak dapat bertentangan dengan kebenaran kecil.
+Pada awal buku ini, saya mengajukan cara untuk melihat bagaimana kita memproses kebenaran, analogisasikan dengan fisika. Dari "kebenaran kecil" untuk menangkap bola bisbol, kita sampai pada "kebenaran besar" fisika d dan kebenaran besar tidak dapat bertentangan dengan kebenaran kecil.
 
 Hal yang sama berlaku untuk moralitas. Dari kebenaran kecil "Saya seharusnya tidak membunuh" kita bisa mencapai kebenaran besar seperti "inisiasi penggunaan kekerasan secara moral salah."
 
